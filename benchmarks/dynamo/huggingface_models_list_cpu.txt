@@ -38,7 +38,6 @@ PLBartForCausalLM,8
 PLBartForConditionalGeneration,4
 RobertaForCausalLM,16
 RobertaForQuestionAnswering,16
-Speech2Text2ForCausalLM,32
 T5ForConditionalGeneration,4
 T5Small,1
 TrOCRForCausalLM,32

@@ -158,10 +158,6 @@ RobertaForQuestionAnswering,pass,5
 
 
 
-Speech2Text2ForCausalLM,pass,6
-
-
-
 T5ForConditionalGeneration,pass,5
 
 

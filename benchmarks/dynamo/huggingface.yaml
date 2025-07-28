@@ -63,7 +63,6 @@ batch_size:
     PegasusForConditionalGeneration: 2
     RobertaForCausalLM: 2
     RobertaForQuestionAnswering: 2
-    Speech2Text2ForCausalLM: 4
     T5ForConditionalGeneration: 2
     T5Small: 2
     TrOCRForCausalLM: 2
