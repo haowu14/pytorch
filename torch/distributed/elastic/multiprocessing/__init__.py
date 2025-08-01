@@ -216,7 +216,6 @@ def start_processes(
             envs=envs,
             logs_specs=logs_specs,
             log_line_prefixes=log_line_prefixes,
-            numa_options=numa_options,
         )
     else:
         context = MultiprocessContext(
@@ -227,6 +226,7 @@ def start_processes(
             log_line_prefixes=log_line_prefixes,
             start_method=start_method,
             logs_specs=logs_specs,
+            numa_options=numa_options,
         )
 
     try:
